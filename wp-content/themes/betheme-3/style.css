@@ -13,3 +13,16 @@ All css files are placed in /css/ folder
 #Top_bar #logo{
 padding: 15px 0 !important;
 }
+html:before{
+    content: '';
+    background-image: url(/wp-content/uploads/2017/10/HOME5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
