@@ -935,7 +935,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td{-webkit-transition:all
 	
 
 /* Quick facts ----------------------------------------------------------------------- */
-.quick_fact{text-align:center}
+/*.quick_fact{text-align:center}*/
 .quick_fact.align_left{text-align:left}
 .quick_fact.align_right{text-align:right}
 .quick_fact .number-wrapper{font-size:90px;line-height:90px}
