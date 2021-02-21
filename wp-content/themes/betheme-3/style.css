@@ -65,4 +65,9 @@ html:before{
     height: 100%;
     position: absolute;
 }
+.section-about-us h2 > a{
+    text-shadow: 0 0 4px rgb(255 255 255);
+    text-transform: uppercase;
+    font-size: 22px;
+}
 
